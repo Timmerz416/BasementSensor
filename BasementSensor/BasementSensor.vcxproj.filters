@@ -17,5 +17,9 @@
   <ItemGroup>
     <None Include="BasementSensor.ino" />
   </ItemGroup>
- 
+  <ItemGroup>
+    <ClInclude Include="__vm\.BasementSensor.vsarduino.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
 </Project>
